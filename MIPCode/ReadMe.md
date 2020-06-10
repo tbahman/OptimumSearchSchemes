@@ -13,7 +13,7 @@ It is also possible that multiple runs of one problem, which do not reach optima
 For both options first execute the following:
 
 ```sh
-   $ git clone https://github.com/kianfar77/OptimumSearchSchemes.git
+   $ git clone https://github.com/kianfar77/OptimumSearchSchemes.git --recurse-submodules
    $ cd OptimumSearchSchemes/MIPCode/ && ls
 ```
 
