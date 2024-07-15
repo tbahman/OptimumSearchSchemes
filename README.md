@@ -71,7 +71,7 @@ The MIP formulation is designed to solve the optimal search scheme problem, whic
 
 Our MIP approach is defined by the following formulation:
 
-![MIP](etc/formula.jpg)
+![MIP](etc/formula.JPG)
 
 
 ## Results
