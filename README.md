@@ -71,7 +71,7 @@ The MIP formulation is designed to solve the optimal search scheme problem, whic
 
 Our MIP approach is defined by the following formulation:
 
-<img src="etc/formula.JPG" alt="MIP" style="width:85%; height:85%;">
+<img src="etc/formula.JPG" alt="MIP" style="width:75%; height:75%;">
 
 
 ## Results
