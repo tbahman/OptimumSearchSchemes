@@ -77,23 +77,7 @@ Our MIP approach is defined by the following formulation:
 
 ### For a generalized version of the problem, searches, and formulation visit my Ph.D. Thesis at Texas A&M University:
 
-
-<div align="center">
-    <a href="https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y" style="display: inline-block; padding: 15px 30px; font-size: 20px; font-weight: bold; color: white; background: linear-gradient(135deg, #007bff 0%, #0056b3 100%); border-radius: 5px; text-decoration: none; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: box-shadow 0.3s, transform 0.3s;">
-        <img src="https://img.icons8.com/ios-filled/50/ffffff/download.png" alt="Download" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
-        Ph.D. Thesis
-    </a>
-</div>
-
-<style>
-    a:hover {
-        transform: translateY(-3px);
-        box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-    }
-</style>
-
-
-
+[![Download Icon]("etc/OSS.webp") Ph.D. Thesis](https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y)
 
 ## Results
 
