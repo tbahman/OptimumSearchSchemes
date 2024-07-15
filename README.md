@@ -1,6 +1,7 @@
 # Optimum Search Schemes for Approximate String Matching Using Bidirectional FM-Index
 
 Welcome to the repository for the paper *"Optimum Search Schemes for Approximate String Matching Using Bidirectional FM-Index"*. This repository contains the implementation and resources related to our research.
+<img src="etc/OSS.webp" alt="MIP" style="width:75%; height:75%;">
 
 ## Table of Contents
 
