@@ -77,12 +77,7 @@ Our MIP approach is defined by the following formulation:
 
 ### For a generalized version of the problem and formulation visit my Ph.D. Thesis at Texas A&M University:
 
-[![`Ph.D. Thesis`]("etc/OSS.webp")](https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y)
-
-[![Ph.D. Thesis](etc/downloadphd.jpg)](https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y)
-
-[![Ph.D. Thesis](etc/downloadphd.jpg "Ph.D. Thesis")](https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y)
-
+[![Ph.D. Thesis]("etc/downloadphd.jpg" "Ph.D. Thesis")](https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y)
 
 ## Results
 
