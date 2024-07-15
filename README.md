@@ -74,9 +74,8 @@ $$
 $$
 
 Subject to:
-
 $$
-\begin{align*}
+\begin{aligned}
 &\sum_{i=1}^{P} x_{s,i,j} = 1 \quad \forall s, j \\
 &\sum_{j=1}^{P} x_{s,i,j} = 1 \quad \forall s, i \\
 &\sum_{i=1}^{P} \sum_{h=1}^{i} x_{s,h,j} - \sum_{i=1}^{P} \sum_{h=1}^{i} x_{s,h,j-1} = t^+_{s,i,j} - t^-_{s,i,j} \quad \forall s, i = 2, \ldots, P-1, j = 1, \ldots, P+1 \\
@@ -89,9 +88,9 @@ $$
 &L_{s,i} + K(\lambda_{q,s} - 1) \leq \sum_{i=1}^{P} \sum_{j=1}^{P} a_{q,j}x_{s,h,j} \leq U_{s,i} + K(1 - \lambda_{q,s}) \quad \forall q, s, i \\
 &\sum_{s=1}^{S} \lambda_{q,s} \geq 1 \quad \forall q \\
 &n_{s,l,d} \geq 0 \quad \forall q, s, i, j, l, d \\
-&L_{s,i}, U_{s,i} \geq 0 \text{ integer} \quad \forall s, i \\
-&x_{s,i,j}, \lambda_{q,s}, z_{s,l,d}, t^+_{s,i,j}, t^-_{s,i,j} \in \{0, 1\} \quad \forall q, s, i, j, l, d \\
-\end{align*}
+&L_{s,i}, U_{s,i} \geq 0 \text{integer} \quad \forall s, i \\
+&x_{s,i,j}, \lambda_{q,s}, z_{s,l,d}, t^+_{s,i,j}, t^-_{s,i,j} \in \{0, 1\} \quad \forall q, s, i, j, l, d
+\end{aligned}
 $$
 
 ## Results
