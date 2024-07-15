@@ -69,70 +69,69 @@ The MIP formulation is designed to solve the optimal search scheme problem, whic
 
 Our MIP approach is defined by the following formulation:
 $$
-\[
 \text{minimize} \sum_{s=1}^{S} \sum_{l=1}^{R} \sum_{d=0}^{K} n_{s,l,d}
-\]
+$$
 
 Subject to:
 
-\[
+$$
 \sum_{i=1}^{P} x_{s,i,j} = 1 \quad \forall s, j
-\]
+$$
 
-\[
+$$
 \sum_{j=1}^{P} x_{s,i,j} = 1 \quad \forall s, i
-\]
+$$
 
-\[
+$$
 \sum_{i=1}^{P} \sum_{h=1}^{i} x_{s,h,j} - \sum_{i=1}^{P} \sum_{h=1}^{i} x_{s,h,j-1} = t^+_{s,i,j} - t^-_{s,i,j} \quad \forall s, i = 2, \ldots, P-1, j = 1, \ldots, P+1
-\]
+$$
 
-\[
+$$
 \sum_{j=1}^{P+1} (t^+_{s,i,j} + t^-_{s,i,j}) = 2 \quad \forall s, i = 2, \ldots, P-1
-\]
+$$
 
-\[
+$$
 d - (L_{s,\lceil l/m \rceil} - m\lceil l/m \rceil + l) + 1 \leq (R+1)z_{s,l,d} \quad \forall s, l, d
-\]
+$$
 
-\[
+$$
 U_{s,\lceil l/m \rceil} + 1 - d \leq (K+1)z_{s,l,d} \quad \forall s, l, d
-\]
+$$
 
-\[
+$$
 \left( \binom{l}{d} (\sigma - 1)^d (z_{s,l,d} + z_{s,l,d} - 2) \right) \leq n_{s,l,d} - n_{s,l-1,d} - (\sigma - 1)n_{s,l-1,d-1} \quad \forall s, l, d
-\]
+$$
 
-\[
+$$
 L_{s,i} \leq L_{s,i+1} \quad \forall s, i = 1, \ldots, P-1
-\]
+$$
 
-\[
+$$
 U_{s,i} \leq U_{s,i+1} \quad \forall s, i = 1, \ldots, P-1
-\]
+$$
 
-\[
+$$
 L_{s,i} + K(\lambda_{q,s} - 1) \leq \sum_{i=1}^{P} \sum_{j=1}^{P} a_{q,j}x_{s,h,j} \leq U_{s,i} + K(1 - \lambda_{q,s}) \quad \forall q, s, i
-\]
+$$
 
-\[
+$$
 \sum_{s=1}^{S} \lambda_{q,s} \geq 1 \quad \forall q
-\]
+$$
 
-\[
+$$
 n_{s,l,d} \geq 0 \quad \forall q, s, i, j, l, d
-\]
+$$
 
-\[
+$$
 L_{s,i}, U_{s,i} \geq 0 \text{ integer} \quad \forall s, i
-\]
+$$
 
-\[
+$$
 x_{s,i,j}, \lambda_{q,s}, z_{s,l,d}, t^+_{s,i,j}, t^-_{s,i,j} \in \{0, 1\} \quad \forall q, s, i, j, l, d
-\]
 $$
 ## Results
 
 ### Performance Gains
 
-Our experiments demonstrate significant improvements over standard backtracking methods, with speed-ups up to 35 times for certain cases. Below are some example results:
+- Our experiments demonstrate significant improvements over standard backtracking methods, with speed-ups up to 35 times for certain cases. 
+- Rapid convergence of feasible solutions to the optimal solution.
