@@ -80,7 +80,7 @@ Our MIP approach is defined by the following formulation:
 [![Ph.D. Thesis](etc/downloadphd.jpg "Ph.D. Thesis")](https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y)
 
 <a href="https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y">
-  <img src="etc/downloadphd.jpg" alt="Ph.D. Thesis" width="400"/>
+  <img src="etc/downloadphd.jpg" alt="Ph.D. Thesis" width="250"/>
 </a>
 
 
