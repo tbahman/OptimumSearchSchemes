@@ -68,6 +68,7 @@ The MIP formulation is designed to solve the optimal search scheme problem, whic
 ### Mathematical Formulation
 
 Our MIP approach is defined by the following formulation:
+
 $$
 \text{minimize} \sum_{s=1}^{S} \sum_{l=1}^{R} \sum_{d=0}^{K} n_{s,l,d}
 $$
@@ -123,12 +124,13 @@ n_{s,l,d} \geq 0 \quad \forall q, s, i, j, l, d
 $$
 
 $$
-L_{s,i}, U_{s,i} \geq 0 \text{ integer} \quad \forall s, i
+L_{s,i}, U_{s,i} \geq 0 \text{integer} \quad \forall s, i
 $$
 
 $$
 x_{s,i,j}, \lambda_{q,s}, z_{s,l,d}, t^+_{s,i,j}, t^-_{s,i,j} \in \{0, 1\} \quad \forall q, s, i, j, l, d
 $$
+
 ## Results
 
 ### Performance Gains
