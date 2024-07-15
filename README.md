@@ -75,6 +75,15 @@ Our MIP approach is defined by the following formulation:
 
 <img src="etc/formula.JPG" alt="MIP" style="width:75%; height:75%;">
 
+### For a more generalized version of the problem, searches, and formulation visit my Ph.D. Thesis at Texas A&M University:
+
+<div align="center">
+    <a href="https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y" style="display: inline-block; padding: 10px 20px; font-size: 20px; font-weight: bold; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">
+        <img src="etc/OSS.webp" alt="Download" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
+ 
+    </a>
+</div>
+
 
 ## Results
 
