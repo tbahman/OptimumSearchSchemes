@@ -4,7 +4,8 @@ Welcome to the repository for the paper *"Optimum Search Schemes for Approximate
 
 
 ## Table of Contents
-<img align="right"  src="etc/OSS.webp" alt="MIP" style="width:30%; height:30%;">
+<img align="right"  src="etc/OSS.webp" alt="MIP" style="width:20%; height:15%;">
+
 - [Introduction](#introduction)
 - [Features](#features)
 - [Computer Science Concepts](#computer-science-concepts)
