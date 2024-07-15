@@ -77,12 +77,9 @@ Our MIP approach is defined by the following formulation:
 
 ### For a generalized version of the problem and formulation visit my Ph.D. Thesis at Texas A&M University:
 
-<a href="https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y">
-  <img src="etc/downloadphd.jpg" alt="Ph.D. Thesis" width="250"/>
-</a>
 
 <a href="https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y" style="display: inline-block; border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 8px 12px rgba(0, 0, 0, 0.1); transition: all 0.3s ease; text-decoration: none;">
-  <img src="etc/downloadphd.jpg" alt="Ph.D. Thesis" style="display: block; border-radius: 12px; width: 200px;"/>
+  <img src="etc/downloadphd.jpg" alt="Ph.D. Thesis" style="display: block; border-radius: 12px; width: 250px;"/>
 </a>
 
 
