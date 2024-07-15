@@ -10,8 +10,6 @@ Welcome to the repository for the paper *"Optimum Search Schemes for Approximate
 - [Programming Details](#programming-details)
 - [Applied Mathematics](#applied-mathematics)
 - [Results](#results)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 
@@ -65,18 +63,12 @@ We formulated the search optimization as an MIP problem to find the optimal sear
 
 The MIP formulation is designed to solve the optimal search scheme problem, which is a well-known combinatorial optimization problem. This problem involves finding the search scheme that minimizes the number of steps in ASM-B while ensuring all possible mismatch patterns are covered.
 
-### Key Folders
-
-- `BenchmarkCode-ITV`: Contains the code and scripts for benchmarking the ITV algorithm.
-- `BenchmarkCode`: Contains the code and scripts for benchmarking various algorithms.
-- `MIPCode`: Contains the implementation of the MIP formulation and solver for finding optimal search schemes.
-
 ## Applied Mathematics
 
 ### Mathematical Formulation
 
 Our MIP approach is defined by the following formulation:
-
+$$
 \[
 \text{minimize} \sum_{s=1}^{S} \sum_{l=1}^{R} \sum_{d=0}^{K} n_{s,l,d}
 \]
@@ -138,29 +130,9 @@ L_{s,i}, U_{s,i} \geq 0 \text{ integer} \quad \forall s, i
 \[
 x_{s,i,j}, \lambda_{q,s}, z_{s,l,d}, t^+_{s,i,j}, t^-_{s,i,j} \in \{0, 1\} \quad \forall q, s, i, j, l, d
 \]
-
+$$
 ## Results
 
 ### Performance Gains
 
 Our experiments demonstrate significant improvements over standard backtracking methods, with speed-ups up to 35 times for certain cases. Below are some example results:
-
-![Performance Graph](results/performance.png)
-
-### Example Graphs
-
-Include some visual results from your paper here:
-
-![Optimal Search Scheme](results/optimal_search_scheme.png)
-
-## Contributors
-
-- **Kiavash Kianfar** - Department of Industrial and Systems Engineering, Texas A&M University
-- **Christopher Pockrandt** - Department of Computer Science and Mathematics, Freie Universität Berlin
-- **Bahman Torkamandi** - Department of Industrial and Systems Engineering, Texas A&M University
-- **Haochen Luo** - Department of Industrial and Systems Engineering, Texas A&M University
-- **Knut Reinert** - Freie Universität Berlin, Max Planck Institute for Molecular Genetics
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
