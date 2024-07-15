@@ -79,7 +79,7 @@ Our MIP approach is defined by the following formulation:
 
 
 <a href="https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y">
-  <img src="etc/pdDdownload.jpg" alt="Ph.D. Thesis" style="display: block; border-radius: 12px; width: 250px;"/>
+  <img src="etc/phDdownload.jpg" alt="Ph.D. Thesis" style="display: block; border-radius: 12px; width: 250px;"/>
 </a>
 
 ## Results
