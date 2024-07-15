@@ -82,6 +82,11 @@ Our MIP approach is defined by the following formulation:
   <img src="etc/downloadphd.jpg" alt="Ph.D. Thesis" style="display: block; border-radius: 12px; width: 250px;"/>
 </a>
 
+<a href="https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y" style="display: inline-block; padding: 10px; border-radius: 12px; background: linear-gradient(145deg, #ffffff, #e6e6e6); box-shadow: 8px 8px 15px #aaaaaa, -8px -8px 15px #ffffff; transition: transform 0.2s;">
+  <img src="path/to/downloaded/image.png" alt="Ph.D. Thesis" style="border-radius: 12px; width: 200px; display: block;"/>
+</a>
+
+
 
 ## Results
 
