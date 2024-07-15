@@ -51,7 +51,7 @@ By combining these elements, the FM-index enables quick navigation through the t
 
 A search scheme can be visualized by representing each of its searches as a trie that captures all substrings enumerated by the search. Each edge at a level of the trie corresponds to a character of the alphabet at that level of search. A vertical edge represents a match, and a diagonal edge represents a mismatch. The number of edges in the tries provides a measure of the efficiency of the search scheme.
 
-![Search Schemes](etc/to/tries.jpg)
+![Search Schemes](etc/tries.JPG)
 
 ### Dynamic Programming for Edit Distance Calculation
 
@@ -71,7 +71,7 @@ The MIP formulation is designed to solve the optimal search scheme problem, whic
 
 Our MIP approach is defined by the following formulation:
 
-![MIP](etc/to/formula.jpg)
+![MIP](etc/formula.jpg)
 
 
 ## Results
