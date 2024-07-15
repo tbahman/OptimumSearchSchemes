@@ -79,9 +79,8 @@ Our MIP approach is defined by the following formulation:
 
 
 <div align="center">
-    <a href="https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y" style="display: inline-block; padding: 15px 30px; font-size: 20px; font-weight: bold; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: box-shadow 0.3s, transform 0.3s;">
-        <img src="etc/OSS.webp" alt="Download" style="vertical-align: middle; width: 48px; height: 48px; margin-right: 12px;">
-        <span style="vertical-align: middle;">Ph.D. Thesis</span>
+    <a href="https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/191893/TORKAMANDI-DISSERTATION-2020.pdf?sequence=1&isAllowed=y" style="display: inline-block; padding: 15px 30px; font-size: 20px; font-weight: bold; color: white; background: linear-gradient(135deg, #007bff 0%, #0056b3 100%); border-radius: 5px; text-decoration: none; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: box-shadow 0.3s, transform 0.3s;">
+        Ph.D. Thesis
     </a>
 </div>
 
