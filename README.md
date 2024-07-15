@@ -4,7 +4,7 @@ Welcome to the repository for the paper *"Optimum Search Schemes for Approximate
 
 
 ## Table of Contents
-<img src="etc/OSS.webp" alt="MIP" style="width:30%; height:30%; float: right;">
+<div align="right">   <img src="etc/OSS.webp" alt="MIP" style="width:30%; height:30%;">   </div>
 
 - [Introduction](#introduction)
 - [Features](#features)
